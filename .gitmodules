@@ -1,0 +1,3 @@
+[submodule "react/ui_react-scaffolding"]
+	path = react/ui_react-scaffolding
+	url = https://github.com/daruj/ui_react-scaffolding
