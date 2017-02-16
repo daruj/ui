@@ -1,3 +1,6 @@
 [submodule "react/ui_react-scaffolding"]
 	path = react/ui_react-scaffolding
 	url = https://github.com/daruj/ui_react-scaffolding
+[submodule "react/ui_react-awesome-flexbox-table"]
+	path = react/ui_react-awesome-flexbox-table
+	url = https://github.com/daruj/ui_react-awesome-flexbox-table
